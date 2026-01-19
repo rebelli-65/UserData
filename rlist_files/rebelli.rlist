@@ -1,0 +1,32 @@
+#### United States ####
+# Delaware
+DE PL MD/DE DE/PA
+
+# District of Columbia
+DC GreLn DC/MD Arc
+
+# Georgia
+GA GoldLn Air PeaCen
+
+# Maryland
+MD GreLn ColPk DC/MD
+MD PL NewCar MD/DE
+
+# New Jersey
+NJ NECorLn NJ/NY Tre
+
+# New York
+NY NECorLn NY/NJ PennSta
+NY B 47-50StsRocCen DeKAv
+NY E CouSq23St 34StPennSta
+NY G HoytSchSts CouSq
+
+# Pennsylvania
+PA PL DE/PA PA/NJ
+
+#### India ####
+# Delhi
+IND-DL VioLn DL/HR Jan
+
+# Haryana
+IND-HR VioLn OldFar DL/HR
